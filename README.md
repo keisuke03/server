@@ -1,4 +1,4 @@
-# minecraft-bedrock-status ver.1.5
+# minecraft-bedrock-status ver.1.8
 ## これは何？
 minecraft bedrock edition のサーバーステータスを取得するプログラムです
 ## 使い方
